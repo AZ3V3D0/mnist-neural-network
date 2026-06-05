@@ -74,7 +74,7 @@ mnist-neural-network/
 Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/AZ3V3D0/mnist-neural-network.git>
 cd mnist-neural-network
 ```
 
