@@ -109,15 +109,6 @@ notebooks/mnist_from_scratch.ipynb
 
 ---
 
-## Technologies Used
-
-* Python
-* NumPy
-* Matplotlib
-* Jupyter Notebook
-
----
-
 ## Key Learning Outcomes
 
 This project helped reinforce:
